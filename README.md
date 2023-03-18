@@ -39,6 +39,7 @@
 ### flyway clean
 
 スキーマ内のすべてのオブジェクトが削除される。
+
 cleanできるようにするには`flyway.cleanDisabled=false`に設定する。
 
 ## 困った時の対処法
